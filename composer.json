@@ -1,0 +1,21 @@
+{
+    "name": "ayda/taskmanager",
+    "description": "mini project to do list",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ayda\\Taskmanager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aida Shadiyan",
+            "email": "aidashadiyan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "hekmatinasser/verta": "^8.3"
+    }
+}
